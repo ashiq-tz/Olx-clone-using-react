@@ -54,14 +54,14 @@ const Login = ({toggleModal,status}) => {
                             icon: "w-8 text-black dark:text-black"
                         },
                     }}  onClick={(event)=>{event.stopPropagation()}}   className="w-full h-56 pb-5 rounded-none">
-                        <div className="flex flex-col items-center justify-center">
+                        {/* <div className="flex flex-col items-center justify-center">
                             <img className="w-24 pb-5" src={guitar} alt="Car Image 1" />
                             <p style={{ color: '#002f34' }} className=" w-60 sm:w-72 text-center pb-5 font-semibold">Help us become one of the safest place to buy and sell.</p>
                         </div>
                         <div className="flex flex-col items-center justify-center">
                             <img className="w-24 pb-5" src={love} alt="Car Image 2" />
                             <p style={{ color: '#002f34' }} className=" w-60 sm:w-72 text-center pb-5 font-semibold">Close deals from the comfort of your home.</p>
-                        </div>
+                        </div> */}
                         <div className="flex flex-col items-center justify-center">
                             <img className="w-24 pb-5" src={avatar} alt="Car Image 3" />
                             <p style={{ color: '#002f34' }} className=" w-60 sm:w-72 text-center pb-5 font-semibold">Keep all your favorites in one place.</p>

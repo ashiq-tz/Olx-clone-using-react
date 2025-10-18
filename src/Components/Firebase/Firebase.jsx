@@ -8,7 +8,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyDfW8oQKCuibknG5r4fvSvwQd-fUHzswdw",
   authDomain: "olx-clone-d39f2.firebaseapp.com",
   projectId: "olx-clone-d39f2",
-  storageBucket: "olx-clone-d39f2.firebasestorage.app",
+  storageBucket: "olx-clone-d39f2.appspot.com", //"olx-clone-d39f2.firebasestorage.app",
   messagingSenderId: "722294919173",
   appId: "1:722294919173:web:265ff4f4796628f0b38c6c"
 };
